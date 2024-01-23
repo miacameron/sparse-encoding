@@ -1,4 +1,4 @@
-Testing the effects of sparsity on the memory capacity of a recurrent neural network. 
+## Testing the effects of sparsity on the memory capacity of a recurrent neural network. 
 This is a small inquiry motivated by the connectivity structure of the hippocampus - high inter-regional connectivity means CA3 is usually modelled as a fully-connected RNN. However, inputs to CA3 from mossy fiber synapses in the dentate gyrus are extremely sparse. Perhaps that could be a mechanism for increasing storage capacity in CA3? 
 
 The original, unprocessed input is a series of MNIST digits:
